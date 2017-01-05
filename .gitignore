@@ -8,3 +8,4 @@
 !build.gradle
 !/gradle.properties
 !.gitattributes
+!/fml-client-latest.log
